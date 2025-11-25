@@ -1,0 +1,31 @@
+# Large dependencies
+hadoop-*.tar.gz
+
+# ====== LAB 01 =======
+
+# Another folder
+project/
+LAB01/example/
+LAB01/lib/
+LAB01/sample_code/
+
+# Build output
+LAB01/bai1/build/
+LAB01/bai2/build/
+LAB01/bai3/build/
+LAB01/bai4/build/
+
+# Compiled files
+*.jar
+*.class
+
+# Output file
+OUTPUT*
+
+LAB01/.classpath
+LAB01/.project
+LAB01/.settings/
+LAB01/.idea/
+LAB01/.vscode/
+LAB01/.DS_Store
+LAB01/Thumbs.db
