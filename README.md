@@ -17,3 +17,15 @@
 - 6 bài
 - Cách chạy: [LAB02/README.md](LAB02/README.md)
 - Ngày nộp: 25/11/2025
+
+### LAB 3
+- Thư mục: LAB03
+- 6 bài
+- Cách chạy: [LAB03/README.md](LAB03/README.md)
+- Ngày nộp: 16/12/2025
+
+### LAB 4
+- Thư mục: LAB04
+- 6 bài
+- Cách chạy: [LAB04/README.md](LAB04/README.md)
+- Ngày nộp: 6/1/2026
